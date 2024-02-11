@@ -5,12 +5,12 @@ import (
 
 	"github.com/google/uuid"
 	"github.com/joho/godotenv"
-	"github.com/sergiovenicio/rinhaGolang/src/config"
-	"github.com/sergiovenicio/rinhaGolang/src/shared/controllers"
-	"github.com/sergiovenicio/rinhaGolang/src/shared/database"
-	sHttp "github.com/sergiovenicio/rinhaGolang/src/shared/http"
-	"github.com/sergiovenicio/rinhaGolang/src/shared/repositories"
-	"github.com/sergiovenicio/rinhaGolang/src/shared/workers"
+	"github.com/sergiovenicio/golang-1.22-rinha-backend-2023-q3/src/config"
+	"github.com/sergiovenicio/golang-1.22-rinha-backend-2023-q3/src/shared/controllers"
+	"github.com/sergiovenicio/golang-1.22-rinha-backend-2023-q3/src/shared/database"
+	sHttp "github.com/sergiovenicio/golang-1.22-rinha-backend-2023-q3/src/shared/http"
+	"github.com/sergiovenicio/golang-1.22-rinha-backend-2023-q3/src/shared/repositories"
+	"github.com/sergiovenicio/golang-1.22-rinha-backend-2023-q3/src/shared/workers"
 )
 
 func main() {

@@ -9,8 +9,8 @@ import (
 
 	"github.com/go-playground/validator/v10"
 
-	"github.com/sergiovenicio/rinhaGolang/src/domain/person"
-	"github.com/sergiovenicio/rinhaGolang/src/shared/repositories"
+	"github.com/sergiovenicio/golang-1.22-rinha-backend-2023-q3/src/domain/person"
+	"github.com/sergiovenicio/golang-1.22-rinha-backend-2023-q3/src/shared/repositories"
 )
 
 var ErrInvalidDto = errors.New("invalid dto")

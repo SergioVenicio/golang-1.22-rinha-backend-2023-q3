@@ -6,7 +6,7 @@ import (
 	"log"
 
 	"github.com/jackc/pgx/v5/pgxpool"
-	"github.com/sergiovenicio/rinhaGolang/src/config"
+	"github.com/sergiovenicio/golang-1.22-rinha-backend-2023-q3/src/config"
 )
 
 var (

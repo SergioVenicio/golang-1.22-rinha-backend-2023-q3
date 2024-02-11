@@ -7,8 +7,8 @@ import (
 	"github.com/gofiber/fiber/v2/log"
 	"github.com/jackc/pgx/v5"
 	"github.com/jackc/pgx/v5/pgxpool"
-	"github.com/sergiovenicio/rinhaGolang/src/config"
-	"github.com/sergiovenicio/rinhaGolang/src/domain/person"
+	"github.com/sergiovenicio/golang-1.22-rinha-backend-2023-q3/src/config"
+	"github.com/sergiovenicio/golang-1.22-rinha-backend-2023-q3/src/domain/person"
 )
 
 type Job struct {

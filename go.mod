@@ -1,4 +1,4 @@
-module github.com/sergiovenicio/rinhaGolang
+module github.com/sergiovenicio/golang-1.22-rinha-backend-2023-q3
 
 go 1.22.0
 
